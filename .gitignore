@@ -1,0 +1,6 @@
+video.mov
+node_modules/
+.DS_Store
+dist/
+out/
+.DS_Store
